@@ -1,1 +1,3 @@
-cd
+i
+#!/bin/bash
+cd ~
